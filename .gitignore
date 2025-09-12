@@ -1,0 +1,24 @@
+# Arquivos e pastas do R / RStudio
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Projetos RStudio
+*.Rproj
+
+# Arquivos de saída de execução
+*.Rout
+*.Rout.save
+
+# Mac
+.DS_Store
+
+# Logs, caches e temporários
+*.log
+*.tmp
+
+# Arquivos gerados por editores
+.vscode/
+.idea/
