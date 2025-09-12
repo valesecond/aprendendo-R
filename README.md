@@ -55,7 +55,7 @@ Arquivo Conteúdo abordado
 06_expressoes_operadores.R Precedência, associatividade e sobrecarga
 07_estruturas_controle.R Condicionais e controle de fluxo
 08_comandos_repeticao.R Laços de repetição (for, while, repeat)
-slides/apresentacao.pdf — Versão exportada dos slides (PDF)
+slides/R_Project_for_Statistical_Computing.pdf — Versão exportada dos slides (PDF)
 
 🔗 Link do Repositório
 
